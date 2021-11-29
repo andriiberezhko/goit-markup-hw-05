@@ -125,7 +125,7 @@ ul {
 }
 .item .curent::after {
   position: absolute;
-  bottom: 0;
+  bottom: -1px;
   content: '';
   display: block;
   height: 4px;
